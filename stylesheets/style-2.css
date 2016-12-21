@@ -1,0 +1,63 @@
+@font-face {
+    font-family:  Florencesans;
+    src:  url("//db.onlinewebfonts.com/t/09f6b2ba02572f19a7d7dd2b5f6494ad.woff");
+}
+body{
+	background:
+		repeating-linear-gradient(
+			180deg,
+			#f9528a 200px,
+			#f975a1 400px
+			);
+	font-family: 'Florencesans','Century Gothic','Sans Serif';
+}
+.contributor{
+	background-repeat: none;
+	transition: 0.3s ease;
+}
+
+.pink{
+	background:
+		repeating-linear-gradient(
+			45deg,
+			#D0245E 200px,
+			#e7437a 400px
+			);
+	color:#fff;
+}
+.lt-grey{
+		background:
+		repeating-linear-gradient(
+			135deg,
+			#efefef 200px,
+			#9d9b9b 400px
+			);
+	color:#000;
+}
+.grey{
+	background:
+		repeating-linear-gradient(
+			45deg,
+			#2d2d2d 200px,
+			#0b0b0b 400px
+			);
+	color:#fff;
+}
+.rows{
+	margin:0;
+	padding:0;
+}
+.columns{
+	padding:0;
+}
+.header{
+	text-align: center;
+	margin:1rem;
+	color:#fff;
+}
+.header>h3{
+	font-size: 3rem;
+}
+.contributor{
+	text-align:center;
+}
