@@ -1,0 +1,64 @@
+@font-face {
+    font-family:  Florencesans;
+    src:  url("//db.onlinewebfonts.com/t/09f6b2ba02572f19a7d7dd2b5f6494ad.woff");
+}
+body{
+	font-family: 'Century Gothic';
+}
+h3{
+	font-size: 1.7rem;
+}
+h4{
+	font-size: 1.4rem;
+}
+h5{
+	font-size: 1.1rem;
+}
+h6{
+	font-size:  1rem;
+}
+.row{
+	margin-top: 2rem;
+	margin-bottom:  2rem;
+}
+.header-container{
+	background-color: #D0245E;
+}
+.header-container>.row{
+	padding-top:1rem;
+	padding-bottom: 1rem;
+	margin-top:0;
+}
+.header{
+	font-size: 3.5rem;
+	text-align: center;
+	color:#fff;
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+.dev-image{
+	width: 15rem;
+}
+.dev-name{
+	font-family:  'Florencesans','Century Gothic','Sans Serif';
+	color: #2D2D2D;
+}
+.dev-title,.irc{
+	color: #D0245E;
+}
+.links{
+	font-size: 2rem;
+}
+.email-link{
+	color: #f2ce04;
+}
+.github-link{
+	color: #000;
+}
+hr{
+	margin: 0;
+}
