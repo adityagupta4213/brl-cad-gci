@@ -62,3 +62,43 @@ h6{
 hr{
 	margin: 0;
 }
+fieldset{
+	margin:2rem;
+	border:2px solid;
+	border-radius: 2rem;
+}
+legend{
+	padding: 1rem;
+	font-size: 1.2rem;
+	color:#2D2D2D;
+}
+.lg-developers{	
+	border-color: #D0245E;	
+}
+.lg-developers>legend{	
+	color: #D0245E;	
+}
+.lg-math-algo-geo{
+	border-color: #2D2D2D;
+}
+.lg-math-algo-geo>legend{	
+	color: #2D2D2D;	
+}
+.lg-doc-art-web{
+	border-color: #666666;
+}
+.lg-doc-art-web>legend{	
+	color: #666666;	
+}
+.lg-code{
+	border-color: #D0245E;
+}
+.lg-code>legend{	
+	color: #D0245E;	
+}
+.lg-special{
+	border-color: #2D2D2D;
+}
+.lg-special>legend{	
+	color: #2D2D2D;	
+}
