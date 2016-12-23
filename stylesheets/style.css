@@ -3,6 +3,7 @@
     src:  url("//db.onlinewebfonts.com/t/09f6b2ba02572f19a7d7dd2b5f6494ad.woff");
 }
 body{
+	min-width:640px;
 	font-family: 'Century Gothic';
 }
 h3{
